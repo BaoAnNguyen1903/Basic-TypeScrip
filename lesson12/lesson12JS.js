@@ -1,0 +1,1 @@
+let myarr = ["baoan", 'deptrai', 12]
